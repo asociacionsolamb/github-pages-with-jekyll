@@ -1,6 +1,6 @@
 ---
 title: Primer post
-date: 28/05/2020
+date: 2020-05-28
 ---
 
 # My first blog post
